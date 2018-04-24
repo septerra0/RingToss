@@ -1,4 +1,4 @@
 sceneSetups:
-- path: C:/Users/Eric/Documents/GitHub/csci559-project00-my-favorite-vr-place-septerra0/Project0/Assets/favoritePlace.unity
+- path: Assets/Ringtoss.unity
   isLoaded: 1
   isActive: 1
